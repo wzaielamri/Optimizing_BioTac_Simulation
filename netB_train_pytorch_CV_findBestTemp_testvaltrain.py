@@ -487,7 +487,7 @@ for train_data_in, train_data_out, train_data_in_scaled, train_data_out_scaled, 
 
     
     # save model checkpoint
-    model.save_checkpoint('./checkpoints/'+str(wandb_logger.experiment.name)+'_fold_'+str(fold_ind)+'.ckpt')
+    trainer.save_checkpoint('./checkpoints/'+str(wandb_logger.experiment.name)+'_fold_'+str(fold_ind)+'.ckpt')
 
     if fold_ind==0:
         test_dataset_one_input = dataset( test_data_in_scaled[0:1], test_data_out_scaled[0:1])
