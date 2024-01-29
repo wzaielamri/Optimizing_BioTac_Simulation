@@ -25,7 +25,7 @@ pip install -r requirements.txt
 # Citation
 
 ```
-@article{wzaielamri_OptBioSim,
+@article{wzaielamri2024OptBioSim,
   title={Optimizing BioTac Simulation for Realistic Tactile Perception.},
   author={Wadhah Zai El Amri and Nicolás Navarro-Guerrero},
   journal={},
