@@ -53,7 +53,13 @@ conda activate OptBioSim
 
 - To plot the results, use the notebooks provided in the folder: *generate_figures*.
 
+## Dataset
 
+The dataset used is available [here](https://tams.informatik.uni-hamburg.de/research/datasets/index.php#biotac_single_contact_response) (Ruppel et al. 2018).
+
+## Checkpoints and Results
+
+The checkpoints and results are available upon request.
 
 # Citation
 
