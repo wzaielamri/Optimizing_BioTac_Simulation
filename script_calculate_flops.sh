@@ -1,5 +1,5 @@
 #!/bin/bash
-#conda activate biotacPlugin
+#conda activate OptBioSim
 
 python netB_flopsProfiler.py --window_before 10 --window_after 10 --specific True  
 python netB_flopsProfiler.py --window_before 10 --window_after 0  --specific True 

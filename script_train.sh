@@ -1,5 +1,5 @@
 #!/bin/bash
-#conda activate biotacPlugin
+#conda activate OptBioSim
 
 
 

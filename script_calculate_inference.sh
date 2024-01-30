@@ -1,5 +1,5 @@
 #!/bin/bash
-#conda activate biotacPlugin
+#conda activate OptBioSim
 
 
 python netB_inference.py --window_before 10 --window_after 10 --specific True  

@@ -1,5 +1,5 @@
 #!/bin/bash
-#conda activate biotacPlugin
+#conda activate OptBioSim
 
 
 python3.9 XGBoost_SMAC_pytorch.py  --window_before 10 --window_after 10 --specific True  --max_budget 30
