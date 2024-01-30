@@ -59,7 +59,7 @@ conda activate OptBioSim
 
 ```
 @article{wzaielamri2024OptBioSim,
-  title={Optimizing BioTac Simulation for Realistic Tactile Perception.},
+  title={{Optimizing} {BioTac} {Simulation} for {Realistic} {Tactile} {Perception}.},
   author={Wadhah Zai El Amri and Nicolás Navarro-Guerrero},
   journal={},
   year={2024}
