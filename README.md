@@ -51,7 +51,7 @@ conda activate OptBioSim
 ./script_calculate_flops.sh
 ```
 
-- To plot the results, use the notebooks provided in the folder *generate_figures*.
+- To plot the results, use the notebooks provided in the folder: *generate_figures*.
 
 
 
