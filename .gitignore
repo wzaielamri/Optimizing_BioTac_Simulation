@@ -6,3 +6,4 @@ checkpoints/**
 results_cv/**
 flops_profiler/**
 windowing_csv/**
+paper/**
