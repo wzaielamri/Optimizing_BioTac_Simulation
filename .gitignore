@@ -5,5 +5,5 @@ smac3_output/**
 checkpoints/**
 results_cv/**
 flops_profiler/**
-windowing_csv/**
+NetworkB_loss_csv/**
 paper/**
