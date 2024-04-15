@@ -64,10 +64,13 @@ The checkpoints and results are available upon request.
 # Citation
 
 ```
-@article{wzaielamri2024OptBioSim,
-  title={{Optimizing} {BioTac} {Simulation} for {Realistic} {Tactile} {Perception}.},
-  author={Wadhah Zai El Amri and Nicolás Navarro-Guerrero},
-  journal={{I}nternational {J}oint {C}onference on {N}eural {N}etworks ({IJCNN})},
-  year={2024}
+@inproceedings{ZaiElAmri2024Optimizing,
+  title = {Optimizing {{BioTac Simulation}} for {{Realistic Tactile Perception}}},
+  booktitle = {International {{Joint Conference}} on {{Neural Networks}} ({{IJCNN}})},
+  author = {Zai El Amri, Wadhah and {Navarro-Guerrero}, Nicol{\'a}s},
+  year = {2024},
+  publisher = {IEEE},
+  address = {Yokohama, Japan},
+  annotation = {https://github.com/wzaielamri/Optimizing\_BioTac\_Simulation}
 }
 ```
