@@ -67,7 +67,7 @@ The checkpoints and results are available upon request.
 @article{wzaielamri2024OptBioSim,
   title={{Optimizing} {BioTac} {Simulation} for {Realistic} {Tactile} {Perception}.},
   author={Wadhah Zai El Amri and Nicolás Navarro-Guerrero},
-  journal={},
+  journal={{I}nternational {J}oint {C}onference on {N}eural {N}etworks ({IJCNN})},
   year={2024}
 }
 ```
