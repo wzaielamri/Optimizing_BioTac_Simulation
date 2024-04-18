@@ -4,7 +4,6 @@
 This repository contains the code and the appendix for the paper [Optimizing BioTac Simulation for Realistic Tactile Perception](https://to.do) by Wadhah Zai El Amri and Nicolás Navarro-Guerrero.
 
 
-
 # Abstract
 Tactile sensing presents a promising opportunity for enhancing the interaction capabilities of today’s robots. BioTac is a commonly used tactile sensor that enables robots to perceive and respond to physical tactile stimuli. However, the sensor’s non-linearity poses challenges in simulating its behavior. In this paper, we first investigate a BioTac simulation that uses temperature, force, and contact point positions to predict the sensor outputs. We show that training with BioTac temperature readings does not yield accurate sensor output predictions during deployment. Consequently, we tested three alternative models, i.e., an XGBoost regressor, a neural network, and a transformer encoder. We train these models without temperature readings and provide a detailed investigation of the window size of the input vectors. We demonstrate that we achieve statistically significant improvements over the baseline network. Furthermore, our results reveal that the XGBoost regressor and transformer outperform traditional feed-forward neural networks in this task. We make all our code and results available online on [GitHub](https://github.com/wzaielamri/Optimizing_BioTac_Simulation/).
 
@@ -60,6 +59,13 @@ The dataset used is available [here](https://tams.informatik.uni-hamburg.de/rese
 ## Checkpoints and Results
 
 The checkpoints and results are available upon request.
+
+
+# Copyrights:
+
+Accepted at the International Joint Conference on Neural Network (IJCNN) 2024, Yokohama, Japan.
+Note: ©2024 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
+
 
 # Citation
 
