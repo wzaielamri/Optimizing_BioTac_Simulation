@@ -1,8 +1,7 @@
 # Optimizing BioTac Simulation for Realistic Tactile Perception
 
 
-This repository contains the code and the appendix for the accepted paper [Optimizing BioTac Simulation for Realistic Tactile Perception](https://arxiv.org/abs/2404.10425) by Wadhah Zai El Amri and Nicolás Navarro-Guerrero.
-
+This repository contains the code and the appendix for the accepted paper [Optimizing BioTac Simulation for Realistic Tactile Perception](https://arxiv.org/abs/2404.10425) by [Wadhah Zai El Amri](https://wzaielamri.github.io) and [Nicolás Navarro-Guerrero](https://nicolas-navarro-guerrero.github.io).
 
 # Abstract
 Tactile sensing presents a promising opportunity for enhancing the interaction capabilities of today’s robots. BioTac is a commonly used tactile sensor that enables robots to perceive and respond to physical tactile stimuli. However, the sensor’s non-linearity poses challenges in simulating its behavior. In this paper, we first investigate a BioTac simulation that uses temperature, force, and contact point positions to predict the sensor outputs. We show that training with BioTac temperature readings does not yield accurate sensor output predictions during deployment. Consequently, we tested three alternative models, i.e., an XGBoost regressor, a neural network, and a transformer encoder. We train these models without temperature readings and provide a detailed investigation of the window size of the input vectors. We demonstrate that we achieve statistically significant improvements over the baseline network. Furthermore, our results reveal that the XGBoost regressor and transformer outperform traditional feed-forward neural networks in this task. We make all our code and results available online on [GitHub](https://github.com/wzaielamri/Optimizing_BioTac_Simulation/).
